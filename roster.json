@@ -1,0 +1,137 @@
+{
+  "asOf": "2026-08-27",
+  "asOfLabel": "27 Aug 2026",
+  "product": {
+    "wordmark": "Night Market",
+    "title": "Vendors Live",
+    "subtitle": "Vendor live tracker",
+    "company": "Abonten Technologies",
+    "market": "Ghana"
+  },
+  "roseline": {
+    "name": "Roseline Dromo",
+    "role": "Taken Live",
+    "vendors": [
+      "Chief Bigs Food",
+      "Daddy Boba",
+      "Koko King",
+      "Majgray Food",
+      "Karis Kitchen",
+      "Breakfast Inn",
+      "Star Bites Express Station",
+      "Mayford Restaurant Asank",
+      "Amovy Shawarma",
+      "Giddo's Food",
+      "Ritual Cafe Cocktail & Bar",
+      "Wonder Wings",
+      "Sekina Eat Fresh",
+      "Alpha Kitchen",
+      "Taste & See",
+      "Rinel C-Zars Kitchen",
+      "Hajia Sauda Madina",
+      "Chix N Ribs",
+      "Riceman Check Check",
+      "Brown's Check Check",
+      "Adoley Special Foods",
+      "Stacks & Rolls",
+      "Baffy's Eatery",
+      "Coconut Grove Ranch Hotel",
+      "Super Active Breakfast",
+      "Mahogany Cafe Afrikiko",
+      "Chungdan Restaurant",
+      "Full Cup",
+      "Golden Shawarma",
+      "Junction Joint Special",
+      "Heritage Indian Restaurant",
+      "Hi Tech Fast Food",
+      "Auntie Niko Plain Rice Special",
+      "G&G Special Waakye",
+      "Quinn's Food",
+      "Auntie Niko Waakye",
+      "Country Kitchen",
+      "Lorlors Delicious",
+      "Shawarma Factory",
+      "Royal Florbites",
+      "Khadilove Food Hub",
+      "Joanne's Cafe",
+      "Djara Meals",
+      "Eme's Eatery",
+      "Cups & Cones Dansoman",
+      "Cups & Cones Ring Road",
+      "Precat Restaurant",
+      "Winginnit Food and Drinks",
+      "Koko King East Legon",
+      "Bancy's Grills",
+      "Men at the Kitchen",
+      "Cheezy Pizza Adenta",
+      "Papas Pizza North Legon",
+      "Eddys Pizza Tema C8"
+    ]
+  },
+  "ibrahim": {
+    "name": "Ibrahim Abubakar",
+    "alsoKnownAs": "LeeHo Mingle",
+    "role": "Taken Live / Audited for Live",
+    "brands": [
+      { "name": "Waakye Boss" },
+      { "name": "Taste of Neye" },
+      { "name": "Hallmark Cafe" },
+      { "name": "MaxMart" },
+      { "name": "Indomie Masters" },
+      { "name": "18 Junction" },
+      { "name": "Elorm's Pizza Restaurant" },
+      { "name": "Chili Treatz" },
+      { "name": "Foodgasm Inn" },
+      { "name": "Chicken Inn" },
+      { "name": "Pious Fast Food" },
+      { "name": "Waakye Supreme" },
+      { "name": "Tillys Kenkey" },
+      { "name": "Pizzaman Chickenman", "branches": 30 },
+      { "name": "Pizza Hut", "branches": 12 },
+      { "name": "Papa's Pizza", "branches": 10 },
+      { "name": "Eddy's Pizza", "branches": 10 },
+      { "name": "Cheezy Pizza", "branches": 8 },
+      { "name": "MaxMart", "branches": 5 },
+      { "name": "Marwako", "branches": 5 },
+      { "name": "Spek Kenkey" },
+      { "name": "Foodies Quarters" },
+      { "name": "Boba Boy" },
+      { "name": "Pepperdem" },
+      { "name": "Boldmade Restaurant" }
+    ]
+  },
+  "overlaps": [
+    {
+      "roselineName": "Cheezy Pizza Adenta",
+      "ibrahimChain": "Cheezy Pizza"
+    },
+    {
+      "roselineName": "Papas Pizza North Legon",
+      "ibrahimChain": "Papa's Pizza"
+    },
+    {
+      "roselineName": "Eddys Pizza Tema C8",
+      "ibrahimChain": "Eddy's Pizza"
+    }
+  ],
+  "notes": {
+    "maxMart": "MaxMart appears twice on Ibrahim's list (once as a name, once as 5 branches); counted as one brand / 5 locations."
+  },
+  "augustContext": {
+    "disclaimer": "Context from earlier weekly reports — not this roster's source, except that the combined 54 fully onboarded names are this Roseline list.",
+    "weeks": [
+      {
+        "label": "Aug week 2",
+        "owner": "Roseline",
+        "fullyOnboarded": 23,
+        "reviewed": 35
+      },
+      {
+        "label": "Aug week 3",
+        "owner": "Roseline",
+        "fullyOnboarded": 31,
+        "reviewed": 38
+      }
+    ]
+  }
+}
